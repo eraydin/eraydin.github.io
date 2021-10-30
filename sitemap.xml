@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://eraydin.net/</loc>
+    <lastmod>2021-10-30T22:00:51+02:00</lastmod>
+  </url><url>
+    <loc>https://eraydin.net/posts/my-second-post/</loc>
+    <lastmod>2021-10-30T22:00:51+02:00</lastmod>
+  </url><url>
+    <loc>https://eraydin.net/posts/</loc>
+    <lastmod>2021-10-30T22:00:51+02:00</lastmod>
+  </url><url>
+    <loc>https://eraydin.net/tags/</loc>
+    <lastmod>2021-10-30T22:00:51+02:00</lastmod>
+  </url><url>
+    <loc>https://eraydin.net/tags/test/</loc>
+    <lastmod>2021-10-30T22:00:51+02:00</lastmod>
+  </url><url>
+    <loc>https://eraydin.net/about/</loc>
+  </url><url>
+    <loc>https://eraydin.net/archives.fr/</loc>
+  </url><url>
+    <loc>https://eraydin.net/archives/</loc>
+  </url><url>
+    <loc>https://eraydin.net/categories/</loc>
+  </url><url>
+    <loc>https://eraydin.net/search/</loc>
+  </url><url>
+    <loc>https://eraydin.net/search.fr/</loc>
+  </url><url>
+    <loc>https://eraydin.net/series/</loc>
+  </url>
+</urlset>
