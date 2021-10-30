@@ -5,6 +5,9 @@
     <loc>https://eraydin.net/</loc>
     <lastmod>2021-10-30T22:00:51+02:00</lastmod>
   </url><url>
+    <loc>https://eraydin.net/posts/my-first-post/</loc>
+    <lastmod>2021-10-30T22:00:51+02:00</lastmod>
+  </url><url>
     <loc>https://eraydin.net/posts/my-second-post/</loc>
     <lastmod>2021-10-30T22:00:51+02:00</lastmod>
   </url><url>
@@ -25,10 +28,10 @@
   </url><url>
     <loc>https://eraydin.net/categories/</loc>
   </url><url>
+    <loc>https://eraydin.net/contact/</loc>
+  </url><url>
     <loc>https://eraydin.net/search/</loc>
   </url><url>
     <loc>https://eraydin.net/search.fr/</loc>
-  </url><url>
-    <loc>https://eraydin.net/series/</loc>
   </url>
 </urlset>

@@ -4,12 +4,17 @@
     <title>Posts on Aydın Eraydın</title>
     <link>https://eraydin.net/posts/</link>
     <description>Recent content in Posts on Aydın Eraydın</description>
-    <image>
-      <url>https://eraydin.net/papermod-cover.png</url>
-      <link>https://eraydin.net/papermod-cover.png</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 30 Oct 2021 22:00:51 +0200</lastBuildDate><atom:link href="https://eraydin.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://eraydin.net/posts/my-first-post/</link>
+      <pubDate>Sat, 30 Oct 2021 22:00:51 +0200</pubDate>
+      
+      <guid>https://eraydin.net/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>My second post</title>
       <link>https://eraydin.net/posts/my-second-post/</link>
