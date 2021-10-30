@@ -1,0 +1,87 @@
+baseURL: "https://eraydin.net/"
+title: "Aydın Eraydın"
+paginate: 10
+theme: "PaperMod"
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+# googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+menu:
+  main:
+    - identifier: blog
+      name: Blog
+      url: /posts/
+      weight: 10
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 20
+    - identifier: contact
+      name: Contact
+      url: /contact/
+      weight: 30
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  description: "Aydin Eraydin - Software Engineer"
+  keywords: ["blog", "software development", "software engineering", "consulting"]
+  author: ["Aydin Eraydin"]
+
+  dateFormat: "January 2, 2006"
+  defaultTheme: auto
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  profileMode:
+    enabled: true
+    title: "Hi there \U0001F44B"
+    subtitle: ""
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/eraydin"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/eraydin"
+    # - name: stackoverflow
+    #   url: "https://stackoverflow.com/users/3188301/aydin-eraydin"
+    - name: twitter
+      url: "https://twitter.com/aeraydin"
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+    highlight:
+      # anchorLineNos: true
+      codeFences: true
+      guessSyntax: true
+      lineNos: true
+      # noClasses: false
+      style: monokai
