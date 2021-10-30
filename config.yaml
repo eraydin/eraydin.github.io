@@ -28,11 +28,11 @@ languages:
       # imageHeight: 120
       # subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
       subtitle: "--"
-      buttons:
-        - name: Blog
-          url: posts
-        - name: Tags
-          url: tags
+      # buttons:
+      #   - name: Blog
+      #     url: posts
+      #   - name: Tags
+      #     url: tags
     menu:
       main:
         - name: Blog
